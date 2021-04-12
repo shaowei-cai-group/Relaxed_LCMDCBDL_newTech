@@ -1,0 +1,5 @@
+#!/bin/sh
+cd sources/simp
+make clean
+make rs
+cp glucose_static ../../bin/Relaxed_LCMDCBDL_newTech

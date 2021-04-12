@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./Relaxed_LCMDCBDL_newTech $1 -drup-file=$2/proof.out

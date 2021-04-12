@@ -1,0 +1,5 @@
+How to build:
+	./starexec_build
+
+How to use:
+	./bin/Relaxed_LCMDCBDL_newTech <dir_ins>
